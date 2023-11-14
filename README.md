@@ -3,3 +3,4 @@ Provided valuable insights to business entities regarding the effectiveness of t
 and charts.
 
 
+Apply time series analysis to generate sales forecasts to share valuable insights and actionable information.
